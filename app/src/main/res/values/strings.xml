@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Prac2</string>
+    <string name="fernando">Fernando Martineza Perez</string>
+    <string name="AGENDA">AGENDA</string>
+    <string name="AGENDAC">AGENDA CONSTRAINT</string>
+    <string name="RECETA">RECETA</string>
+    <string name="nombreContacto">Nuevo Contacto</string>
+    <string name="nombre">Nombre: </string>
+    <string name="Apellido">Apellidos: </string>
+    <string name="correoE">e-mail: </string>
+    <string name="tel">telefono: </string>
+    <string name="notas">Notas: </string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="Reiniciar">Reiniciar</string>
+    <string name="Salir">Salir</string>
+    <string name="btOK">OK</string>
+    <string name="btCancel">CANCEL</string>
+    <string name="acNombre">nombre:</string>
+    <string name="nombreAutor">"Autor"</string>
+    <string name="Titulo">"Titulo del producto"</string>
+    <string name="descripcion"> "Descrpcion"</string>
+    <string name="delore">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="Ingredienttes">Ingredientes</string>
+    <string name="ingrelo">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="Recetate">Receta</string>
+    <string name="recetalo">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+</resources>
